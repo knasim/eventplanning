@@ -3,8 +3,9 @@
 #### Intro:
 
 
-The problem of seating guests has deep implications within Computer Science and falls under the NP category of problems. Meaning there is no best solution available for problems classfied as such.  One can come up with a best approximate soution
-that comes close.
+The problem of seating guests has deep implications within Computer Science and falls under the NP-Hard category.
+Meaning there is no best solution available for problems classfied as such.  One can come up with a best approximate
+soution that comes close.
 
 #### Approach:  
   Recursive Algorithm that attempts to accommodate all of the reservations.
