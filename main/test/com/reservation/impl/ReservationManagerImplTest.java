@@ -65,7 +65,7 @@ class ReservationManagerImplTest {
         manager = new ReservationManagerImpl(this.tables);
 
         reservation = new LinkedList<>();
-        reservation.add(reese);
+        reservation.add(reese); //This assignment can be randomized
         reservation.add(owens);
         reservation.add(smith);
         reservation.add(taylor);
@@ -98,7 +98,7 @@ class ReservationManagerImplTest {
         assertEquals(booked.get(2).name,reservations[3].name);
         assertEquals(booked.get(3).name,reservations[2].name);
         assertEquals(booked.get(4).name,reservations[1].name);
-        printReservations();
+        //printReservations();
     }
 
     /**
