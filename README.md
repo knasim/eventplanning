@@ -1,6 +1,6 @@
 # Event Planning
 
-#### How to Build:  Project built using gradle and shall open in IDEs with Gradle support.
+#### Intro:
 
 
 The problem of seating guests has deep implications within Computer Science and falls under the NP category of problems. Meaning there is no best solution available for problems classfied as such.  One can come up with a best approximate soution
@@ -26,4 +26,5 @@ that comes close.
 
 #### Running the code
     From the test package - Run unit ReservationManagerImplTest.
+    Project built using gradle and shall open in IDEs with Gradle support.
   
