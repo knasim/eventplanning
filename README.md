@@ -23,4 +23,7 @@ that comes close.
 #### Improvement
    An improvement would be to create a numerical quantity that serves as a threshold parameter.
    This shall halt execution of the program and throw an error when this parameter value is reached.
+
+#### Running the code
+    From the test package - Run unit ReservationManagerImplTest.
   
